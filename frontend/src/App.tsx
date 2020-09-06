@@ -1,7 +1,12 @@
 import React from 'react';
 
-function App() {
-  return <p>GoBarber-Web</p>;
-}
+import GlobalStyle from './styles/global';
+
+const App: React.FC = () => (
+  <>
+    <h1>Hello Wolrd</h1>
+    <GlobalStyle />
+  </>
+);
 
 export default App;
