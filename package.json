@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "tsconfig-paths": "^3.9.0"
+  }
+}
